@@ -5,6 +5,8 @@ This is a fork of the sample application for
 by [Michael Hartl](http://michaelhartl.com/).
 
 (git push --repo=git@github.com:bardibardi/sample\_app\_2nd\_ed.git)
+(git remote add origin git@github.com:bardibardi/sample\_app\_2nd\_ed.git)
+(git push -u origin master)
 
 (using rvm on ubuntu 11.04)
 
